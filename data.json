@@ -1,7 +1,28 @@
 {
   "customers": [
-    { "id": "1", "name": "John Doe", "email": "jdoe@gmail.com", "age": 35 },
-    { "id": "2", "name": "Jim Green", "email": "jgreen@gmail.com", "age": 27 },
-    { "id": "3", "name": "Li Lei", "email": "llei@gmail.com", "age": 15 }
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Jim Green",
+      "email": "jgreen@gmail.com",
+      "age": 27
+    },
+    {
+      "id": "3",
+      "name": "Li Lei",
+      "email": "llei@gmail.com",
+      "age": 15
+    },
+    {
+      "name": "Han Meimei",
+      "email": "hmeimei@gmail.com",
+      "age": 17,
+      "id": "eQrxXZo"
+    }
   ]
 }
